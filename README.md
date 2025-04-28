@@ -65,7 +65,7 @@ mybot/
 在命令行中运行以下命令将项目克隆到本地（假设你已经安装了 Git）：
 
 ```bash
-git clone https://github.com/Sanite-Ava/Network_Test_Bot.git
+git clone https://github.com/Hamster-Prime/Network_Test_Bot.git
 cd Network_Test_Bot
 ```
 
