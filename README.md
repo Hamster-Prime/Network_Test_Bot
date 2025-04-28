@@ -163,11 +163,11 @@ python bot.py
    将用户 ID 为 `111222333` 的用户从授权列表中移除。
 
 3. **添加测试服务器**  
-   `/addserver 服务器3 example.com 22 user password`  
+   `/addserver "测试服务器" example.com 22 user password`或直接输入`/addserver` 按提示继续添加
    添加新的服务器信息。
 
 4. **删除测试服务器**  
-   `/rmserver 服务器3`  
+   `/rmserver "测试服务器"`或直接输入`/rmserver` 按提示继续删除
    删除名称为“服务器3”的服务器信息。
 
 ---
